@@ -27,7 +27,7 @@ using Mono.Unix;
 
 namespace SparkleShare {
 
-    public class SparkleSetupWindow : Window    {
+    public class SparkleSetupWindow : Window {
 
         // TODO: caps
         private HBox HBox;
